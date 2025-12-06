@@ -1,0 +1,1 @@
+vcs -f rtl.f -full64 -R +v2k -sverilog -v2005 -debug_access+all +notimingcheck +define+$1 | tee rtl.log
