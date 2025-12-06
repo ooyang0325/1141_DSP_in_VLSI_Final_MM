@@ -1,7 +1,7 @@
 module MM #(
     parameter M = 512,
     parameter N = 512,
-    parameter K = 128,
+    parameter K = 256,
     parameter AD = 16,
     parameter VL = 32,
     parameter VS = 64,
