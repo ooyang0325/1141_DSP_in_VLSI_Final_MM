@@ -1,5 +1,5 @@
 module VECMAC #(
-    parameter VS = 64,
+    parameter VS = 16,
     parameter SUM_W = 24,
     parameter N_LVL = $clog2(VS)
 )(

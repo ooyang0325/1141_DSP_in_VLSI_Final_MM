@@ -1,6 +1,6 @@
 module ACC #(
     parameter AD = 16,
-    parameter VL = 16,
+    parameter VL = 8,
     parameter SUM_W = 24,
     parameter WIDTH = SUM_W * VL
 )(
